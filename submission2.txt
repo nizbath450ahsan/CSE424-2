@@ -1,1 +1,17 @@
+Link to unlisted YouTube video:
+https://
 
+Public link to the slide (Anyone on the internet can view without login):
+https://docs.google.com/presentation/d/1AyEJ6pfQ5e4QE9OgI8OhtzLLhYY3LUFIXDrLyxM-23M/edit?usp=sharing
+
+Paper title:
+A Comprehensive Review of Speech Emotion Recognition Systems
+
+Link to the paper:
+https://ieeexplore.ieee.org/document/9383000
+
+Group Number:
+19
+
+Individual Submitter:
+19101390	S.M. Irfan Ahmed
