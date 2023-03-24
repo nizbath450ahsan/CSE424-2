@@ -1,0 +1,26 @@
+Submission 3: Book chapter presentation
+Chapter 7: 	Neural Networks and Neural Language Models
+
+Link to unlisted youtube video: 
+
+
+Public link to the Concept Map (anyone on the internet can view without login): 
+1: https://www.figma.com/file/nCGgQkhVsqPVNekLFwWCRx/cse424?node-id=0-1&t=VxR2TjLiWxfVQ26c-0
+ 
+
+Name, Author, Edition, year and publisher of the Book: 
+Name: Understanding Machine Learning: From Theory to Algorithms
+Author: Shai Shalev-Shwartz and Shai Ben-David
+Year: 2014
+Publisher: Cambridge University Press
+
+Link to the book: https://www.cs.huji.ac.il/w~shais/UnderstandingMachineLearning/copy.html
+
+Book chapter: 19
+
+Group Number: 19
+
+Group Members:
+19101390 S.M. Irfan Ahmed
+19101385 Arfan Hakim Swapnil
+18101243 Pritom Paul
