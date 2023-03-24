@@ -2,7 +2,7 @@ Submission 3: Book chapter presentation
 Chapter 7: 	Neural Networks and Neural Language Models
 
 Link to unlisted youtube video: 
-
+https://youtu.be/a-g56YFeOw0
 
 Public link to the Concept Map (anyone on the internet can view without login): 
 1: https://www.figma.com/file/nCGgQkhVsqPVNekLFwWCRx/cse424?node-id=0-1&t=VxR2TjLiWxfVQ26c-0
